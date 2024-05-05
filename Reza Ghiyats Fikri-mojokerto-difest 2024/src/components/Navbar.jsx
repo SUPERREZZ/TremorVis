@@ -5,7 +5,7 @@ const Navbar = () => {
   // State untuk mengontrol status terbuka atau tertutupnya menu navigasi
   const [isOpen, setIsOpen] = useState(false);
   // State untuk melacak link yang aktif
-  const [activeLink, setActiveLink] = useState(null);
+  const [activeLink, setActiveLink] = useState(0);
 
   // Fungsi untuk menoggle menu navigasi
   const toggleMenu = () => {
