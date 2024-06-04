@@ -20,7 +20,7 @@ const Navbar = () => {
 
   return (
     // Komponen Navbar
-    <header className="flex flex-wrap sm:justify-center sm:flex-nowrap w-full  text-sm py-4 bg-black fixed top-0 z-10">
+    <header className="flex flex-wrap sm:justify-center sm:flex-nowrap w-full  text-sm py-4 bg-black fixed sm:sticky top-0 z-10">
       <nav
         className={`max-w-[85rem] w-full px-4 sm:px-20  sm:flex sm:items-center sm:justify-between`}
         aria-label="Global"
