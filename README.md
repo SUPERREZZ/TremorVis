@@ -24,6 +24,7 @@ Sebelum Anda mulai, pastikan Anda telah menginstal:
     ```bash
     git clone https://github.com/SUPERREZZ/TremorVis.git
     cd TremorVis
+    cd Reza Ghiyats Fikri-mojokerto-difest 2024
     ```
 
 2. Instal dependensi yang diperlukan:
